@@ -46,4 +46,3 @@ The documentation is located in the [/docs](/docs) directory.
 ## License
 
 HyperApp is MIT licensed. See [LICENSE](LICENSE.md).
-
